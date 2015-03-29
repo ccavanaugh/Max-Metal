@@ -5,7 +5,12 @@ License
 
 These files are designed to be used with the all Aluminum Delta printer frame that may be purchased from [Trick Laser](http://www.tricklaser.com/)
  
-The small parts for belt attachment should be printed at 100% infill at .1mm layer height.  They must be flat!
+## Small parts
+The Idler Hub is an optional design vs. using the Open Builds idler assembly.  2 are required for each tower along with 2 11mm OD X 4mm Wide x 5mm ID bearings.
+The Trick Truck Belt Spacer is required to keep the belt parallel to the axis of travel if you are using the Trick Trick.
 
+These should be printed at 100% infill at .1mm layer height.  They must be flat!  PLA should provide sufficient strength.
+
+## Remaining parts
 The other parts may be printed with infill and layer heights to suit.  
 All parts are designed to be printed without support on a will tuned printer
