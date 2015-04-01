@@ -9,9 +9,7 @@ These files are designed to be used with the all Aluminum Delta printer frame th
 All parts are deigned to be printed with a layer height of 0.1 mm.  Use of a slicer that can combine infill layers is highly recommended to reduce print time.  
 I am printing 0.1 mm layers with 3 stacked layer (0.3 mm) for all sparse infill.  
 
-Slic3r and Kisslicer Pro are known to be capable.
-  
-All parts are designed to be printed without support on a well tuned printer
+Slic3r and Kisslicer Pro are known to be capable.  
  
 ## Small parts
 The *Idler Hub* is an optional design vs. using the Open Builds idler assembly.  2 are required for each tower along 
@@ -32,6 +30,9 @@ stepper is not running hot or is actively cooled.
 
 ## Power Supply Bracket
 Print with 25% or denser infill.  It should not see much heat so PLA is fine.
+
+## Spool Cone
+Print with support enabled
 
 ## Remaining parts
 The other parts may be printed with infill and layer heights to suit.  
