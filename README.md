@@ -14,7 +14,7 @@ Slic3r and Kisslicer Pro are known to be capable.
 ## Small parts
 The *Idler Hub* is an optional design vs. using the Open Builds idler assembly.  2 are required for each tower along 
 with 2X 11 mm OD X 4 mm Wide x 5 mm ID bearings.
-The *Trick Truck Belt Spacer* is required to keep the belt parallel to the axis of travel if you are using the Trick Trick.
+The *Trick Truck Belt Spacer* is required to keep the belt parallel to the axis of travel if you are using Trick Trucks.
 
 These parts must be printed at 100% infill at 0.1 mm layer height. A larger layer height may create dimensional issues
   depending on the slicer used.  
