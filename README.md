@@ -34,6 +34,10 @@ Print with 25% or denser infill.  It should not see much heat so PLA is fine.
 ## Spool Cone
 Print with support enabled
 
+## End Stop Cap
+Small caps for the end stop screws you can put a wrench on or turn by hand.  Stick the screw through with the head going into the counter-bore.
+Fill flush with epoxy.
+
 ## Remaining parts
 The other parts may be printed with infill and layer heights to suit.  
 
