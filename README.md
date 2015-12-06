@@ -13,13 +13,20 @@ Slic3r and Kisslicer Pro are known to be capable.
  
 ## Small parts
 The *Idler Hub* is an optional design vs. using the Open Builds idler assembly.  2 are required for each tower along 
-with 2X 11 mm OD X 4 mm Wide x 5 mm ID bearings.
+with 2X 11 mm OD X 4 mm Wide x 5 mm ID bearings.  v2 of the part is ment for the thicker idler arms that are now provided
+with all kits.
+
 The *Trick Truck Belt Spacer* is required to keep the belt parallel to the axis of travel if you are using Trick Trucks.
 
 These parts must be printed at 100% infill at 0.1 mm layer height. A larger layer height may create dimensional issues
   depending on the slicer used.  
   
   They must be flat!  PLA should provide sufficient strength.
+  
+## Tensioner Cap
+Print at 80-100% infill.  The jack screws will put stress on the parts as will final tightening the of 5mm idler screw.
+If you use these, you will need to replace the stock 30mm long idler screw with a 35mm long screw.  A pair of 3mm x 16mm long screws
+and 3mm nyloc nuts will be need for tensioning.
 
 ## EZStruder Mount
 This part is chunky.  We don't want it flexing under heavy retractions and it will see some radiated heat because of
