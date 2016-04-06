@@ -5,4 +5,4 @@ Use 6-32 X 1" Screws and nylocs to join the plates
 
 Two 6-32 X 1 1/2" Screws and nylocs are used for the LCD housing
 
-The FSR bracket uses 2 3mm x 12mm screws or you can use glue or PSA to attach it to the frame.  The FSR board should snap in place, but a small thru hole has been added for a shelf tapping screw if needed.
+The FSR bracket uses 2 3mm x 12mm screws or you can use glue or PSA to attach it to the rear plate.  The FSR board should snap in place, but a small thru hole has been added for a self tapping screw if needed.
